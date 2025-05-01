@@ -21,4 +21,6 @@ TBS Automatic Blinds Controller is an Android application for controlling smart 
   - Visual display of current opacity setting
 
 ## 📸 Screenshots
-![TBS Automatic Blinds UI](screenshots/app_interface.png)
+
+### User Interface (Detailed)
+![TBS Automatic Blinds UI](https://github.com/user-attachments/assets/7b5d71d2-4286-4f0e-be81-14442eeb323e)
