@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TBS</string>
+    <string name="current_reading_text"><u>Current</u></string>
+    <string name="current_activation_text"><u>Activation</u></string>
+    <string name="left_reading_text">70 F</string>
+    <string name="left_activation_text">75 F</string>
+    <string name="right_reading_text">80 %</string>
+    <string name="right_activation_text">85 %</string>
+    <string name="lower_text">lower</string>
+    <string name="raise_text">raise</string>
+    <string name="f_text">F</string>
+    <string name="per_text">%</string>
+</resources>
